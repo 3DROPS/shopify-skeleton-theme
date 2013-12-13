@@ -1,0 +1,23 @@
+{
+  "name": "shopify-skeleton",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Kreutzer <eric@3dro.ps>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower",
+    "app/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.7.1",
+    "typeplate": "~1.1.2",
+    "bourbon": "~3.1.8",
+    "neat": "~1.5.0",
+    "normalize.scss": "~2.1.3"
+  }
+}

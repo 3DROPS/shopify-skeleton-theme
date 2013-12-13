@@ -1,0 +1,18 @@
+/*
+ * Mixins
+ */
+@mixin background-clip($clip: padding-box) {
+  @include prefixer(background-clip, $clip, webkit moz spec);
+}
+
+@mixin font-smoothing($smoothing: antialiased) {
+  @include prefixer(font-smoothing, $smoothing, webkit moz spec);
+}
+
+%font-smoothing {
+  @include font-smoothing;
+}
+
+@mixin filter($var) {
+  @include prefixer(font-smoothing, $var, webkit moz spec);
+}

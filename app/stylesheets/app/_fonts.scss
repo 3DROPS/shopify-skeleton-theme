@@ -1,0 +1,32 @@
+// @font-face {
+//   font-family: "Klinic Slab Book";
+//   font-weight: normal;
+//   font-style: normal;
+//   src: url(#{ '{{ "klinicslabbook-webfont.eot" | asset_url }}' });
+//   src: url(#{ '{{ "klinicslabbook-webfont.eot?#iefix" | asset_url }}' }) format("embedded-opentype"),
+//        url(#{ '{{ "klinicslabbook-webfont.woff" | asset_url }}' }) format("woff"),
+//        url(#{ '{{ klinicslabbook-webfont.ttf" | asset_url }}' }) format("truetype"),
+//        url(#{ '{{ "klinicslabbook-webfont.svg?#Klinic Slab Book" | asset_url }}' }) format("svg");
+// }
+
+// @font-face {
+//   font-family: "Klinic Slab Medium";
+//   font-weight: normal;
+//   font-style: normal;
+//   src: url(#{ '{{ "klinicslabmedium-webfont.eot" | asset_url }}' });
+//   src: url(#{ '{{ "klinicslabmedium-webfont.eot?#iefix" | asset_url }}' }) format("embedded-opentype"),
+//        url(#{ '{{ "klinicslabmedium-webfont.woff" | asset_url }}' }) format("woff"),
+//        url(#{ '{{ "klinicslabmedium-webfont.ttf" | asset_url }}' }) format("truetype"),
+//        url(#{ '{{ "klinicslabmedium-webfont.svg?#Klinic Slab Medium" | asset_url }}' }) format("svg");
+// }
+
+// @font-face {
+//   font-family: "Klinic Slab Bold";
+//   font-weight: normal;
+//   font-style: normal;
+//   src: url(#{ '{{ "klinicslabbold-webfont.eot" | asset_url }}' });
+//   src: url(#{ '{{ "klinicslabbold-webfont.eot?#iefix" | asset_url }}' }) format("embedded-opentype"),
+//        url(#{ '{{ "klinicslabbold-webfont.woff" | asset_url }}' }) format("woff"),
+//        url(#{ '{{ "klinicslabbold-webfont.ttf" | asset_url }}' }) format("truetype"),
+//        url(#{ '{{ "klinicslabbold-webfont.svg?#Klinic Slab Bold" | asset_url }}' }) format("svg");
+// }
