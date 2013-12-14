@@ -14,7 +14,7 @@
     "grunt-contrib-watch": "~0.4.4",
     "grunt-contrib-copy": "",
     "grunt-contrib-uglify": "",
-    "grunt-shopify": "latest",
+    "grunt-shopify": "git://github.com/erickreutz/grunt-shopify.git",
     "growl": "~1.7",
     "load-grunt-tasks": "~0.1.0",
     "connect-livereload": "~0.2.0",
